@@ -1,4 +1,4 @@
-let text = "Welcome to Programming Hub🌎";
+let text = "Welcome to Programming Hub";
 let i = 0;
 
 function typing() {
@@ -16,8 +16,7 @@ function goToLanguages() {
 
 }
 
-function sending() {
-    alert("Message sent successfully🎉");
+function sendMsg() {
+    alert("Message sent successfully!");
 
 }
-fun

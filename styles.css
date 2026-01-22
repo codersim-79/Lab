@@ -115,3 +115,8 @@ textarea {
     justify-content: center;
     align-items: center;
 }
+
+footer {
+    text-align: center;
+    color: black;
+}
